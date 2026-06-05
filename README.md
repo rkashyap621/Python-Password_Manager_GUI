@@ -10,3 +10,5 @@ Also once automatic password is done the uqiue password is automatically copied 
 ![Password Manager GUI](https://i.postimg.cc/NFrWFZnF/GH20.png)
 
 ![1](https://i.postimg.cc/SR3Y7YVP/GH21.png)
+
+![2](https://i.postimg.cc/vmZfWndj/GH22.png)
