@@ -6,4 +6,5 @@ Now, I used as baseline and was able use Python Tkinter module to create Passwor
 
 Also once automatic password is done the uqiue password is automatically copied to clipboard for me to immediately paste in account creation page seamlessly and finish off the account creation process and then if I want to keep a personal record of it I can click on the Add button to update the password and account name info in a json file local to me.
 
+
 ![Password Manager GUI](https://i.postimg.cc/NFrWFZnF/GH20.png)
