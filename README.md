@@ -12,3 +12,5 @@ Also once automatic password is done the uqiue password is automatically copied 
 ![1](https://i.postimg.cc/SR3Y7YVP/GH21.png)
 
 ![2](https://i.postimg.cc/vmZfWndj/GH22.png)
+
+![3](https://i.postimg.cc/NfZzCgMg/GH23.png)
